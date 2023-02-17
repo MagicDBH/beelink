@@ -27,7 +27,7 @@ int main()
         {
             e[k] = a[i];
             k++;
-        }6 
+        }
     }
     for (int i = 0; i < k; i++)
     {
